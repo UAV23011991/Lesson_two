@@ -1,4 +1,4 @@
 # Lesson_two
-Create a new lesson
-Arambaharabamburum
-Nothing else matters
+1. Create a new lesson
+1. Arambaharabamburum
+1. Nothing else matters
